@@ -1,0 +1,13 @@
+body{
+    background-image: url(../imgs/360_F_279342048_F5NFddwEW19MJsVev4UvjmUne5JgSPqY.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+h1 ,h3 {
+     font-family: "Montserrat", sans-serif;
+
+}
+.quotes-content{
+    font-family: "Playpen Sans Thai", cursive;
+}
